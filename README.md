@@ -1,2 +1,7 @@
-# bitcointracker
-iOS swift 4 bitcoin tracker for multiple currencies. Using Alamofire and SwityJSON
+
+
+#  Bitcoin Ticker
+
+
+Uses pods SwiftyJSON (4.2.0), Alamofire (4.8.1)
+
